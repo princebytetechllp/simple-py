@@ -9,4 +9,6 @@
 # Licence:     <your licence>
 #-------------------------------------------------------------------------------
 
-print("Hellow World")
+
+def function_new():
+  print("Hellow World")
